@@ -1,0 +1,2 @@
+# how-to-work-with-formulas-in-the-react-spreadsheet
+A quick-start project that helps you work with formulas in the Syncfusion React Spreadsheet component. The Spreadsheet component provides a built-in calculation library that supports most common formulas. This project demonstrates the analysis of a company's stock value for a certain period with formulas. This project also contains code to set formulas through the data source, the Formula tab in the Spreadsheet ribbon, user-defined functions, and named ranges.
